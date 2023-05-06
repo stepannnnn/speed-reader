@@ -5,10 +5,9 @@ import time
 # create root window
 root = Tk()
 root.attributes('-fullscreen',True)
-tab_2 = False
 txt = ""
 v = DoubleVar() 
-cas = 0.8
+cas = 0.1
 # root window title and dimension
 root.title("Rychloctecka")
 # Set geometry (widthxheight)
